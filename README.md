@@ -1,6 +1,6 @@
 # TransferLearning
 Global AI Hub - AI Summer Camp
 
-Cats and Dogs veri seti ile pretrained mobilenet modeli kullanıldı. 
+Used pretrained mobilenet model for binary and multiclass image classification.
 
-https://tfhub.dev/google/tf2-preview/mobilenet_v2/feature_vector/4 
+Mobilenet => https://tfhub.dev/google/tf2-preview/mobilenet_v2/feature_vector/4 
